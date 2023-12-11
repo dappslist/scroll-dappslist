@@ -20,7 +20,8 @@ export default {
 				'Identity',
 				'DAO',
 				'Subscriptions',
-				'Gaming'
+				'Gaming',
+				'Quests'
 			],
 		},
 	},
