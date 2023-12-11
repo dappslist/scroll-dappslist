@@ -466,7 +466,7 @@ const projects = [
 	{
 		id: 0,
 		title: 'TaskOn',
-		category: 'Web3 Social',
+		category: 'Quests',
 		img: require('@/assets/images/projects/taskon.png'),
 		url: 'https://taskon.xyz/'
 	}
@@ -474,7 +474,7 @@ const projects = [
 	{
 		id: 0,
 		title: 'QuestN',
-		category: 'Web3 Social',
+		category: 'Quests',
 		img: require('@/assets/images/projects/questn.png'),
 		url: 'https://app.questn.com/'
 	}
